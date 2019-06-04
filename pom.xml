@@ -12,13 +12,13 @@
         <dependency>
             <groupId>com.yahoo.elide</groupId>
             <artifactId>elide-annotations</artifactId>
-            <version>4.4.4-SNAPSHOT</version>
+            <version>4.4.4</version>
         </dependency>
 
         <dependency>
             <groupId>com.yahoo.elide</groupId>
             <artifactId>elide-standalone</artifactId>
-            <version>4.4.4-SNAPSHOT</version>
+            <version>4.4.4</version>
         </dependency>
     </dependencies>
 
